@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://i.imgur.com/2nCt3Sbl.gif" width="100%" />
+  <img src="https://i.pinimg.com/originals/8d/2a/4e/8d2a4e3d8b8b8c6abbb4fadf4fca56c8.gif" width="100%" />
 </p>
 
 <h1 align="center">👋 Yo, I'm Hammad</h1>
 
-<!-- Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;React+JS+%2B+Node+JS;Dashboard+Architect;API+Systems+%2B+Clean+Backends;Always+Building%2C+Always+Leveling+Up" />
 </p>
+
 
 ---
 
@@ -64,15 +64,15 @@ run clean like a midnight breeze sliding through an empty street.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hammad00x&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hammad04x&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-two.vercel.app?user=hammad00x&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats-two.vercel.app?user=hammad04x&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hammad00x&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hammad04x&layout=compact&theme=tokyonight" />
 </p>
 
 ---
