@@ -101,11 +101,11 @@ run clean like a midnight breeze sliding through an empty street.
 
 <p align="center">
 
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://jagaralahammad.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio%20-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 
-  <a href="mailto:hammad@example.com">
+  <a href="mailto:codewithhammad.dev@email.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
