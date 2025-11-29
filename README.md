@@ -1,35 +1,34 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" />
+  <img src="https://i.imgur.com/2nCt3Sbl.gif" width="100%" />
 </p>
 
 <h1 align="center">👋 Yo, I'm Hammad</h1>
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;React+JS+%2B+Node+JS;HubSpot+Developer;Dashboard+%26+API+Systems;Always+Building%2C+Always+Leveling+Up" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;React+JS+%2B+Node+JS;Dashboard+Architect;API+Systems+%2B+Clean+Backends;Always+Building%2C+Always+Leveling+Up" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a *full-stack JavaScript dev* who vibes with  
-**React, Node, Express, MySQL**, and builds real apps that actually *solve things*.  
+I’m a *full-stack JavaScript dev* who builds things that feel smooth, fast, and real.  
+React on the front, Node on the back — MySQL holding it all down.  
 
-Also diving deep into **clean dashboards, auth systems, and premium UI flows**.  
-Coding feels like poetry — a little chaotic, a little cosmic, but always clean.
+I love crafting dashboards, premium UI flows, role-based systems, and backends that  
+run clean like a midnight breeze sliding through an empty street.
 
 ---
 
 ## 💡 What I Do
 
-- 🎨 *React UI + animations*  
-- 🛠 Custom dashboards with role-based access  
-- 🔐 JWT auth, token refresh, inactivity logout  
-- 🌐 HubSpot development  
-- 📦 E-commerce & real-estate systems  
-- 📱 API gateway (SIH-style architecture)  
-- 🏗 Production websites with premium design vibes  
+- 🎨 Smooth, modern React UIs  
+- 🛠 Custom dashboards + role-based access  
+- 🔐 JWT auth with refresh tokens + inactivity logout  
+- 🌐 API systems with clean architecture  
+- 📦 E-commerce & property management apps  
+- 🏗 Full-stack production builds with premium vibes  
 
 ---
 
@@ -42,7 +41,7 @@ Coding feels like poetry — a little chaotic, a little cosmic, but always clean
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/HubSpot-F15A29?style=for-the-badge&logo=hubspot&logoColor=white" />
+
 </p>
 
 ---
@@ -80,22 +79,21 @@ Coding feels like poetry — a little chaotic, a little cosmic, but always clean
 
 ## 🚀 Projects I’ve Built
 
-- 🏢 Real Estate Property + Roles System  
-- 🍰 Sheetal Sweets Production Website  
+- 🏢 Real Estate + Property Role System  
 - 🛒 E-commerce with dashboard  
-- 🗂 Animated React Portfolio  
-- 🔐 Auth System with JWT + Refresh Token + Inactivity Logout  
-- 🛡 SIH-Style API Gateway (React + Node + MySQL)  
-- 🏬 Multi-branch Contact Routing System (Mumbai → sub-branch → form routing)  
+- 🧩 Animated React portfolio  
+- 🔐 Auth System (JWT + Refresh Token + Inactivity Logout)  
+- 🛡 SIH-style API Gateway (React + Node + MySQL)  
+- 🏬 Multi-branch contact routing (Mumbai → Sub-branch → Form Routing)  
 
 ---
 
 ## 🌱 Currently Evolving In
 
-- ⚛ React performance + clean architecture  
-- 🔐 Advanced auth / security  
-- 🧩 Role-based dashboards  
-- 🧭 HubSpot automation + custom modules  
+- ⚛ React performance + clean patterns  
+- 🔐 Advanced backend security  
+- 🧩 Role-based dashboard systems  
+- 🧭 API architecture + scalability  
 
 ---
 
