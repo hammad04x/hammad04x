@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="60%" />
 </p>
 
-<h1 align="center">👋 Yo, I'm Hammad</h1>
+<h1 align="center">Hi, I'm Hammad</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;React+JS+%2B+Node+JS;Dashboard+Architect;API+Systems+%2B+Clean+Backends;Always+Building%2C+Always+Leveling+Up" />
