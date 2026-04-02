@@ -150,7 +150,7 @@ A full-stack expense tracking app with categorized records, dashboard summaries,
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hammad04x&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
+<img src="https://github-trophies.vercel.app/?username=hammad04" />
 
 </div>
 
