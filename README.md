@@ -138,7 +138,7 @@ A full-stack expense tracking app with categorized records, dashboard summaries,
 
 <br/><br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hammad04x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=007bff&text_color=c9d1d9" width="40%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hammad04x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=007bff&text_color=c9d1d9" width="55%" />
 
 <br/><br/>
 
