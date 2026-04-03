@@ -144,16 +144,6 @@ A full-stack expense tracking app with categorized records, dashboard summaries,
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=hammad04" />
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
