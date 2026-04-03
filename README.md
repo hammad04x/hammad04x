@@ -90,8 +90,6 @@ Currently deploying production backends on **Hostinger VPS** — not just localh
 A complete production e-commerce platform. React frontend on Vercel, Node.js/Express backend deployed on **Hostinger VPS** with JWT auth. Features product browsing, cart, Razorpay payment gateway, Google OAuth login, and a full admin dashboard.
 
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hammad04x/Zepx-The-Ecommerce)
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://jagaralahammad.vercel.app)
-![Hosted](https://img.shields.io/badge/Backend-Hostinger_VPS-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
 
 ---
 
