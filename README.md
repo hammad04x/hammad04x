@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007bff,100:121212&height=200&section=header&text=Jagarala%20Hammad%20Imran&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%2B%20Spring%20Boot%20%7C%20React%20%2B%20Node.js&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007bff,100:121212&height=200&section=header&text=Jagarala%20Hammad%20Imran&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%2B%20Node.js%20%2B%20Next.js&descAlignY=58&descSize=16" />
 
 </div>
 
@@ -17,29 +17,24 @@
 
 ## 👋 About Me
 
-```java
-public class Hammad {
+```jsx
+const Hammad = () => {
+  const name     = "Jagarala Hammad Imran";
+  const role     = "Full-Stack Developer";
+  const location = "Gujarat, India";
 
-    String name     = "Jagarala Hammad Imran";
-    String role     = "Full-Stack Developer";
-    String location = "Gujarat, India";
+  const deployed = [
+    "Frontend  → Vercel, Hostinger",
+    "Backend   → Hostinger VPS (Node.js + Express + JWT)",
+  ];
 
-    String[] currentFocus = {
-        "Java + Spring Boot backend engineering",
-        "React + Next.js frontend systems",
-        "Building — Automotive Marketplace Platform"
-    };
+  const goal = "High-paying backend engineering role at a large-scale company";
 
-    String[] deployed = {
-        "Frontend  → Vercel, Hostinger",
-        "Backend   → Hostinger VPS (Node.js + Express + JWT)"
-    };
-
-    String goal = "High-paying backend engineering role at a large-scale company";
-}
+  return { name, role, location, deployed, goal };
+};
 ```
 
-I build things end-to-end — from **Spring Boot REST APIs** with layered architecture down to **React UIs** that feel premium and intentional. I don't do half-finished. Every project ships with clean structure, real features, and thought-out design.
+I build things end-to-end — from **Node.js/Express REST APIs** with clean layered architecture down to **React UIs** that feel premium and intentional. I don't do half-finished. Every project ships with clean structure, real features, and thought-out design.
 
 Currently deploying production backends on **Hostinger VPS** — not just localhost, actual live servers.
 
@@ -48,12 +43,10 @@ Currently deploying production backends on **Hostinger VPS** — not just localh
 ## 🛠 Tech Stack
 
 ### Backend
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -64,7 +57,6 @@ Currently deploying production backends on **Hostinger VPS** — not just localh
 
 ### Database & DevOps
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VPS](https://img.shields.io/badge/Hostinger_VPS-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -73,8 +65,6 @@ Currently deploying production backends on **Hostinger VPS** — not just localh
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Lombok](https://img.shields.io/badge/Lombok-red?style=for-the-badge&logo=java&logoColor=white)
 
 ### Integrations
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)
@@ -85,7 +75,7 @@ Currently deploying production backends on **Hostinger VPS** — not just localh
 ## 🚀 Featured Projects
 
 ### 🛍️ Zepx — Full-Stack E-Commerce Platform
-> React · Node.js · Express · JWT · MySQL · Razorpay · Google OAuth 
+> React · Node.js · Express · JWT · MySQL · Razorpay · Google OAuth
 
 A complete production e-commerce platform. React frontend on Vercel, Node.js/Express backend deployed on **Hostinger VPS** with JWT auth. Features product browsing, cart, Razorpay payment gateway, Google OAuth login, and a full admin dashboard.
 
@@ -93,8 +83,8 @@ A complete production e-commerce platform. React frontend on Vercel, Node.js/Exp
 
 ---
 
-### 🎓 Student Management System — Spring Boot REST API
-> Java 21 · Spring Boot 3.4.3 · Spring Data JPA · MySQL · Lombok · Maven
+### 🎓 Student Management System — REST API
+> Java · Spring Boot · MySQL · JWT · REST API
 
 Production-ready REST API for full academic lifecycle management — students, courses, instructors, departments, and enrollments. Clean layered architecture with DTOs, pagination, AOP logging, and global exception handling. Includes Postman collection.
 
@@ -161,8 +151,7 @@ A full-stack expense tracking app with categorized records, dashboard summaries,
 ## 🌱 Currently Building Toward
 
 ```
-✦  Deep Java fundamentals & DSA
-✦  Large-scale Spring Boot systems
+✦  Large-scale Node.js backend systems
 ✦  Automotive Marketplace Platform (Next.js)
 ✦  Backend engineering at a high-impact company
 ```
